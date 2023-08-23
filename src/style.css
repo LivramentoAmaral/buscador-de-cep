@@ -68,14 +68,16 @@
    justify-content: center;
    align-items: center;
    flex-direction: column;
-   background-color: white;
+   background-color: rgba(54, 40, 40, 0.037);
+   box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.5);
    border-radius: 10px;
+   color: white;
    
  }
 
  main > h2{
-   margin:16px 0;
-   font-size: 33px;
+   margin:16px 10px;
+   font-size: 28px;
  }
 
  .main > span{
